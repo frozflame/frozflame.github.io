@@ -1,0 +1,85 @@
+{
+    "title": "Forbes 2019 billionaires",
+    "type": "tabular",
+    "data": {
+        "keys": [
+            "rank",
+            "name",
+            "usd_billions",
+            "age",
+            "nationality"
+        ],
+        "rows": [
+            [
+                1,
+                "Jeff Bezos",
+                131,
+                55,
+                "United States"
+            ],
+            [
+                2,
+                "Bill Gates",
+                96.5,
+                63,
+                "United States"
+            ],
+            [
+                3,
+                "Warren Buffett",
+                82.5,
+                88,
+                "United States"
+            ],
+            [
+                4,
+                "Bernard Arnault",
+                76,
+                70,
+                "France"
+            ],
+            [
+                5,
+                "Carlos Slim",
+                64,
+                79,
+                "Mexico"
+            ],
+            [
+                6,
+                "Amancio Ortega",
+                62.7,
+                82,
+                "Spain"
+            ],
+            [
+                7,
+                "Larry Ellison",
+                62.5,
+                74,
+                "United States"
+            ],
+            [
+                8,
+                "Mark Zuckerberg",
+                62.3,
+                34,
+                "United States"
+            ],
+            [
+                9,
+                "Michael Bloomberg",
+                55.5,
+                77,
+                "United States"
+            ],
+            [
+                10,
+                "Larry Page",
+                50.8,
+                45,
+                "United States"
+            ]
+        ]
+    }
+}
