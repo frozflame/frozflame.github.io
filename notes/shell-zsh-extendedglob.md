@@ -21,6 +21,7 @@ setopt | grep extendedglob
 
 --------------------------------------
 
+Useful patterns:
 
 
 | Pattern           | Remark                                         |
