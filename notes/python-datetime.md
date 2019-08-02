@@ -15,7 +15,7 @@ Conversion between `datetime` and timestamp(`int` or `float`):
 | `datetime` | timestamp  | `datetime.timestamp()`     |
 
 Example
-```python3
+```python
 >>> now = datetime.now()
 >>> now.timestamp()
 1564753072.794328
@@ -34,7 +34,7 @@ Conversion between `datetime` and text representation (`str`):
 | `datetime` | `str`      | `datetime.strftime()`     |
 
 Example
-```python3
+```python
 >>> now = datetime.now()
 >>> now.strftime('%Y%m%d-%H%M%S')
 '20190802-213752'
