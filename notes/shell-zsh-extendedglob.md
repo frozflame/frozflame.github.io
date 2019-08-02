@@ -2,10 +2,25 @@
 Zsh setopt extendedglob
 =======================
 
+Enable:
 
 ```zsh
 setopt extendedglob
 ```
+
+Disable:
+```zsh
+setopt noextendedglob
+```
+
+Check if enabled:
+```zsh
+setopt | grep extendedglob
+```
+
+
+--------------------------------------
+
 
 
 | Pattern           | Remark                                         |
