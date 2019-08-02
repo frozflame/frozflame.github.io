@@ -23,10 +23,3 @@ Or should I use `os.get_terminal_size()`?
 
 So use `shutil.get_terminal_size()` until you have a reason for `os.get_terminal_size()`.
 
-
-------------------------------------------------------
-
-If you are using `pandas`:
-
-    >>> pandas.util.terminal.get_terminal_size()
-    (90, 30)
