@@ -1,9 +1,9 @@
 Get Terminal Size in Python
----------------------------
+===========================
 
 With `shutil.get_terminal_size()`:
 
-```
+```python
 >>> import shutil
 >>> ts = shutil.get_terminal_size()
 >>> ts
