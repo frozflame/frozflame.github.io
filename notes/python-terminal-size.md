@@ -21,5 +21,5 @@ Or should I use `os.get_terminal_size()`?
 
 (from [Python docs](https://docs.python.org/3/library/os.html#os.get_terminal_size))
 
-So use `shutil.get_terminal_size()` until you have a reason for `os.get_terminal_size()`.
+So use `shutil.get_terminal_size()` unless you have a reason for `os.get_terminal_size()`.
 
