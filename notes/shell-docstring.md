@@ -1,10 +1,9 @@
 Docstring in A Shell Script 
 ===========================
 
-
 Example:
 
-```shell script
+```bash
 read -r -d '' usage <<EOT
 usage:
 \$ $0 start
