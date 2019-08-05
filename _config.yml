@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
 show_downloads: false
 title: "layman coder"
 description: "frozflame's weblog: python and shell scripting"
 github:
     is_project_page: false
+plugins:
+  - jemoji
