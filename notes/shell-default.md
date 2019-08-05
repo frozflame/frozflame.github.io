@@ -19,3 +19,8 @@ lookup(env, 'username', 'guest')
 | +      | `v = env.get(k, default); v = v if v is None else default; return v`                 |
 | -      | `v = env.get(k, default); v = v if v is not None else default; return v`             |
 | =      | `v = env.get(k, default); v = v if v is not None else default; env[k] = v; return v` |
+
+---------------------------------------------
+
+References:
+- Parameter Substitution, _Advanced Bash-Scripting Guide_, [:globe_with_meridians:](http://tldp.org/LDP/abs/html/parameter-substitution.html#PARAMSUBREF)
