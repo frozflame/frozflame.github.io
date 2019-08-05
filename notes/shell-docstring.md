@@ -15,3 +15,5 @@ if [[ $1 == -h ]]; then
     exit
 fi
 ```
+
+See also: [SO question](https://stackoverflow.com/questions/23929235/multi-line-string-with-extra-space-preserved-indentation) 
