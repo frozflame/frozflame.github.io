@@ -13,7 +13,7 @@ lookup(env, 'username', 'guest')
 
 | Symbol | Python Equivolent                                                                    |
 | ------ | ------------------------------------------------------------------------------------ |
-| :+     | `return env.get(k) and default`{:.python}                                                      |
+| :+     | `return env.get(k) and default`{:.language-python}                                                          |
 | :-     | `return env.get(k) or default`                                                       |
 | :=     | `v = env.get(k) and default; env[key] = val; return v;`                              |
 | +      | `v = env.get(k, default); v = v if v is None else default; return v`                 |
