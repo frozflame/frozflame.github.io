@@ -11,3 +11,14 @@ Where?
 - grep and sed
 
 
+Bash glob: `*`, `?`, `[..]`
+
+extglob:
+
+| extglob pattern | regular expression equivolent |
+|:---------------:|:-----------------------------:|
+|  `?(patterns)`  |          `(regex)?`           |
+|  `*(patterns)`  |          `(regex)*`           |
+|  `+(patterns)`  |          `(regex)+`           |
+|  `@(patterns)`  |           `(regex)`           |
+|  `!(patterns)`  |                               |

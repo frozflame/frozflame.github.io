@@ -24,3 +24,6 @@ https://www.tutorialsteacher.com/
 
 
 
+The Decentralized Web Primer
+
+https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/
