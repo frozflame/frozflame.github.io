@@ -24,8 +24,8 @@ For more options, `perl -h`.
 
 Want to use Python? See these projects:
 
-* oneliner [:globe_with_meridians:](https://python-oneliner.readthedocs.io/en/latest/)
-* pyp [:globe_with_meridians:](https://code.google.com/archive/p/pyp/)
+* oneliner [docs](https://python-oneliner.readthedocs.io/en/latest/)
+* pyp [code.google.com](https://code.google.com/archive/p/pyp/)
 
 
 -------------------------------------------------
