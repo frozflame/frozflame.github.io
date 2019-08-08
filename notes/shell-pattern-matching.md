@@ -54,6 +54,7 @@ Query status:
     shopt | grep glob
 
 FAQ: Why is nullglob not default? ([204803 why-is-nullglob-not-default](https://unix.stackexchange.com/questions/204803/why-is-nullglob-not-default))
+
 Short answer: Think about different behaviors of `ls *.txt` with and without nullglob.
 
 
