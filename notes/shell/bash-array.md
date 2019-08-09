@@ -1,7 +1,5 @@
-
 Shell Array
 ===========
-
 
 Boilerplate:
 
