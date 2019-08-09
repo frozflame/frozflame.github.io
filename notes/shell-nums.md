@@ -18,7 +18,7 @@ Exponentiation operator is `**`, like Python:
     $ echo $(( 1.6 / 2 ))
     bash: 1.6 / 2 : syntax error: invalid arithmetic operator (error token is ".6 / 2 ")
 
-More on operators: [GNU Bash manual: Shell-Arithmetic](https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html#Shell-Arithmetic)
+More on operators: [ Shell-Arithmetic (GNU Bash manual)](https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html)
 
 Length of an array:
 

@@ -27,7 +27,6 @@ Want to use Python? See these projects:
 * oneliner ([docs](https://python-oneliner.readthedocs.io/en/latest/))
 * pyp ([code.google.com](https://code.google.com/archive/p/pyp/))
 
-
 -------------------------------------------------
 
 See also: 
