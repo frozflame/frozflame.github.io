@@ -3,8 +3,8 @@ Bash Upper/Lower Case
 
 ### To upper-case
 
-- `^`: first character
-- `^^` whole string
+- `^` - first character
+- `^^` - whole string
 
 Example:
 
@@ -20,9 +20,8 @@ Example:
 
 ### To lower-case
 
-- `,` first character
-- `,,` whole string
-
+- `,` - first character
+- `,,` - whole string
 
 Example:
 
