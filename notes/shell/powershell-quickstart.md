@@ -50,6 +50,8 @@ Special folders [(ref)](https://stackoverflow.com/a/31747246):
 Test existence:
     
     [System.IO.File]::Exists($path)
+    Test-Path $path -PathType leaf
+    
 
 Cmdlets for common files and dirs operations (creating, copying, moving, renaming, etc.):
 
@@ -59,9 +61,5 @@ Cmdlets for common files and dirs operations (creating, copying, moving, renamin
 * Rename-Item
 * Get-Content
 * Test-Path
-
-
-
-
 
 
