@@ -35,7 +35,7 @@ Run a script [(ref)](https://stackoverflow.com/a/18537263):
 
 ### File, Directory and Path
 
-Current script:
+Current script location [(ref)](https://stackoverflow.com/q/5466329):
 
     write-output $PSScriptRoot
     write-output $PSCommandPath
