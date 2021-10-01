@@ -21,7 +21,6 @@ Python has octal literals:
 Equivolent to `chmod a+x myfile.txt`:
 
 ```python
-import stat
 import os
 st = os.stat('myfile.txt')
 os.chmod("myfile.txt", st.st_mode | int('111', 8))
