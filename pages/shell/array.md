@@ -1,5 +1,5 @@
-Shell Array
-===========
+Bash Array
+==========
 
 Boilerplate:
 

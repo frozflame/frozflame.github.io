@@ -2,8 +2,11 @@ layman coder
 ============
 
 Python cheatsheets:
-- [string](pages/python/str)
-- [datetime](pages/python/datetime)
+
+| [String](pages/python/str) | [Datetime](pages/python/datetime) | 
+
+Shell cheatsheets:
+- [Array](pages/shell/array)
 
 -----------------------------------------------------------
 
