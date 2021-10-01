@@ -5,4 +5,6 @@ Got "permission denied" error while trying to connect to the Docker daemon socke
 
 Try this 
 
-    sudo usermod -a -G docker $NAME
+    sudo usermod -a -G docker `whoami`
+
+This command will add current user to the `docker` group.

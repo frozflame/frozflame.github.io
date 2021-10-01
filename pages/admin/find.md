@@ -16,6 +16,14 @@ Find all `.*` files but ignore `.htaccess`:
 
     find . -type f \( -iname ".*" ! -iname ".htaccess" \)
 
+Regex:
+
+    find . -iregex ".*\.(js|jsx|html|htm)" 
+
+Note: `-iregex` is the case-insensitive version of `-regex`.
+
+
+
 ### Questions
 
 What is the difference between using `+` and `;` in `-exec` command? ([answer](https://askubuntu.com/a/558819/219766))
