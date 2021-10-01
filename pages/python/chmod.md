@@ -7,6 +7,7 @@ Equivolent to `chmod 777 myfile.txt`:
 import os
 os.chmod("myfile.txt", int('777', 8))
 ```
+
 Using `int` with a 2nd argument is clear and compatible.
 
 Literal octal numbers like `0o777` and `0777` may have com
