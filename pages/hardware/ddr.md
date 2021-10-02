@@ -1,7 +1,7 @@
 DDR SDRAM
 =========
 
-<style>table {font-size: .7em;}</style>
+<style>table {font-size: .8em;}</style>
 
 |   DDR   |   PC    |   DDR2    |   PC2    |   DDR3    |    PC3    |   DDR4    |    PC4    |
 |:-------:|:-------:|:---------:|:--------:|:---------:|:---------:|:---------:|:---------:|
@@ -22,8 +22,9 @@ DDR SDRAM
 |         |         |           |          |           |           | DDR4-2933 | PC4-23466 |
 |         |         |           |          |           |           | DDR4-3200 | PC4-25600 |
 
-From wikipedia: [DDR](https://en.wikipedia.org/wiki/DDR_SDRAM) | [DDR2](https://en.wikipedia.org/wiki/DDR2_SDRAM) \
-| [DDR3](https://en.wikipedia.org/wiki/DDR3_SDRAM) | [DDR4](https://en.wikipedia.org/wiki/DDR4_SDRAM)
+
+From wikipedia: [DDR](https://en.wikipedia.org/wiki/DDR_SDRAM) / [DDR2](https://en.wikipedia.org/wiki/DDR2_SDRAM)
+/ [DDR3](https://en.wikipedia.org/wiki/DDR3_SDRAM) / [DDR4](https://en.wikipedia.org/wiki/DDR4_SDRAM)
 
 Plain text version:
 
